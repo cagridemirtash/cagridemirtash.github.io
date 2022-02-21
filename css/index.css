@@ -1,5 +1,5 @@
 body {
-  --url-image: url(../img/christion-dubovan.jpg);
+  --url-image: url(../img/max-bender.jpg);
   background-image: var(--url-image, gray);
   background-position: center center;
   background-repeat: no-repeat;
