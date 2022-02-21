@@ -4,4 +4,7 @@
 
 ## Task List
 
-- [ ] Create a navbar => Home, Personal information, Contact, Works
+- [ ] Create a navbar => Home, Personal information, Contact, Works.
+- [ ] Create a Personal Information => A text includes all personal data.
+- [ ] Create a Contact Section => Add social media accounts.
+- [ ] Create a Works section => Use Javascript to get all data from Github and serve whole page.
